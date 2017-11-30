@@ -7,7 +7,7 @@
 //
 
 #import "TZAssetModel+Wave.h"
-#import <TZImageManager.h>
+#import <TZImagePickerController/TZImageManager.h>
 #import "HHJMediaObj.h"
 #import <objc/runtime.h>
 

@@ -7,16 +7,16 @@
 //
 
 #import "HHJPhotoPickerController.h"
-#import "TZImagePickerController.h"
-#import "TZPhotoPreviewController.h"
-#import "TZAssetCell.h"
-#import "TZAssetModel.h"
-#import "UIView+Layout.h"
-#import "TZImageManager.h"
-#import "TZVideoPlayerController.h"
-#import "TZGifPhotoPreviewController.h"
-#import "TZLocationManager.h"
-#import <UIColor+YYAdd.h>
+#import <TZImagePickerController/TZImagePickerController.h>
+#import <TZImagePickerController/TZPhotoPreviewController.h>
+#import <TZImagePickerController/TZAssetCell.h>
+#import <TZImagePickerController/TZAssetModel.h>
+#import <TZImagePickerController/UIView+Layout.h>
+#import <TZImagePickerController/TZImageManager.h>
+#import <TZImagePickerController/TZVideoPlayerController.h>
+#import <TZImagePickerController/TZGifPhotoPreviewController.h>
+#import <TZImagePickerController/TZLocationManager.h>
+#import <YYKit/UIColor+YYAdd.h>
 
 #import "HHJPhotoPreviewController.h"
 #import "TZImagePickerController+Wave.h"

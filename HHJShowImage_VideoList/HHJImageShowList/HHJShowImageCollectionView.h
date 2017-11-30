@@ -11,6 +11,7 @@
 #import "HHJMediaObj.h"
 #import "LxGridViewFlowLayout.h"
 
+
 typedef NS_ENUM(NSUInteger, HHJImagePickerType) {
     ///列表展示、相册只包含图片
     HHJImagePickerType_Image = 0,

@@ -8,10 +8,10 @@
 
 #import "TZPhotoPreviewView+Wave.h"
 #import <Photos/Photos.h>
-#import <TZImageManager.h>
-#import <TZProgressView.h>
+#import <TZImagePickerController/TZImageManager.h>
+#import <TZImagePickerController/TZProgressView.h>
 #import "TZAssetModel+Wave.h"
-#import "UIImageView+HHJWZZ.h"
+#import <HHJTools/UIImageView+HHJWZZ.h>
 
 @implementation TZPhotoPreviewView (Wave)
 

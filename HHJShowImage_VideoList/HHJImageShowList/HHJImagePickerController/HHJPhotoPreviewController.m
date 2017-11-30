@@ -7,11 +7,11 @@
 //
 
 #import "HHJPhotoPreviewController.h"
-#import <TZImagePickerController.h>
-#import <TZImageManager.h>
-#import <UIView+Layout.h>
+#import <TZImagePickerController/TZImagePickerController.h>
+#import <TZImagePickerController/TZImageManager.h>
+#import <TZImagePickerController/UIView+Layout.h>
 
-#import <TZPhotoPreviewCell.h>
+#import <TZImagePickerController/TZPhotoPreviewCell.h>
 #import "TZAssetModel+Wave.h"
 
 

@@ -15,7 +15,6 @@
 		C319FDF91F7BC45A00DBBD20 /* HHJShowImage_VideoListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C319FDF81F7BC45A00DBBD20 /* HHJShowImage_VideoListTests.m */; };
 		C319FE041F7BC45A00DBBD20 /* HHJShowImage_VideoListUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C319FE031F7BC45A00DBBD20 /* HHJShowImage_VideoListUITests.m */; };
 		C319FE121F7BC4E000DBBD20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C319FE111F7BC4E000DBBD20 /* LaunchScreen.storyboard */; };
-		C319FE321F7E36E500DBBD20 /* UIImageView+HHJWZZ.m in Sources */ = {isa = PBXBuildFile; fileRef = C319FE311F7E36E500DBBD20 /* UIImageView+HHJWZZ.m */; };
 		C3E695F91FCECFB800911B62 /* HHJImagePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695D21FCECFB700911B62 /* HHJImagePickerViewController.m */; };
 		C3E695FA1FCECFB800911B62 /* HHJPhotoPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695D41FCECFB700911B62 /* HHJPhotoPickerController.m */; };
 		C3E695FB1FCECFB800911B62 /* HHJPhotoPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695D61FCECFB700911B62 /* HHJPhotoPreviewController.m */; };
@@ -80,9 +79,6 @@
 		C319FE051F7BC45A00DBBD20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C319FE111F7BC4E000DBBD20 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C319FE171F7C873800DBBD20 /* BHService_HHJShowImage_VideoList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BHService_HHJShowImage_VideoList.h; sourceTree = "<group>"; };
-		C319FE2F1F7E314000DBBD20 /* ENUM_HHJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ENUM_HHJ.h; sourceTree = "<group>"; };
-		C319FE301F7E36E500DBBD20 /* UIImageView+HHJWZZ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImageView+HHJWZZ.h"; sourceTree = "<group>"; };
-		C319FE311F7E36E500DBBD20 /* UIImageView+HHJWZZ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+HHJWZZ.m"; sourceTree = "<group>"; };
 		C3E695D11FCECFB700911B62 /* HHJImagePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJImagePickerViewController.h; sourceTree = "<group>"; };
 		C3E695D21FCECFB700911B62 /* HHJImagePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJImagePickerViewController.m; sourceTree = "<group>"; };
 		C3E695D31FCECFB700911B62 /* HHJPhotoPickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJPhotoPickerController.h; sourceTree = "<group>"; };
@@ -196,9 +192,6 @@
 				C319FDDA1F7BC45A00DBBD20 /* AppDelegate.m */,
 				C319FDDC1F7BC45A00DBBD20 /* RootViewController.h */,
 				C319FDDD1F7BC45A00DBBD20 /* RootViewController.m */,
-				C319FE2F1F7E314000DBBD20 /* ENUM_HHJ.h */,
-				C319FE301F7E36E500DBBD20 /* UIImageView+HHJWZZ.h */,
-				C319FE311F7E36E500DBBD20 /* UIImageView+HHJWZZ.m */,
 				C3E695CF1FCECFB700911B62 /* HHJImageShowList */,
 				C319FE111F7BC4E000DBBD20 /* LaunchScreen.storyboard */,
 				C319FE131F7BC7C600DBBD20 /* Services */,
@@ -501,7 +494,6 @@
 				C3E695FC1FCECFB800911B62 /* TZAlbumPickerController+Wave.m in Sources */,
 				C3E695F91FCECFB800911B62 /* HHJImagePickerViewController.m in Sources */,
 				C3E695FB1FCECFB800911B62 /* HHJPhotoPreviewController.m in Sources */,
-				C319FE321F7E36E500DBBD20 /* UIImageView+HHJWZZ.m in Sources */,
 				C319FDEF1F7BC45A00DBBD20 /* main.m in Sources */,
 				C3E696031FCECFB800911B62 /* HHJShowImageCell.m in Sources */,
 				C3E695FD1FCECFB800911B62 /* TZAssetModel+Wave.m in Sources */,

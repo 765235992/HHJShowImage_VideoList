@@ -5,7 +5,7 @@
 
 #import "LxGridViewFlowLayout.h"
 #import "HHJShowImageCell.h"
-#import "UIView+Layout.h"
+#import <TZImagePickerController/UIView+Layout.h>
 
 #define stringify   __STRING
 

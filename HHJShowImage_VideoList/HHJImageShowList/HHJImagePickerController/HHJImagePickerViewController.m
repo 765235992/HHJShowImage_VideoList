@@ -8,10 +8,10 @@
 
 #import "HHJImagePickerViewController.h"
 #import "HHJPhotoPreviewController.h"
-#import <UIView+Layout.h>
-#import <TZImageManager.h>
+#import <TZImagePickerController/UIView+Layout.h>
+#import <TZImagePickerController/TZImageManager.h>
 #import "HHJPhotoPickerController.h"
-#import <UIColor+YYAdd.h>
+#import <YYKit/UIColor+YYAdd.h>
 #import "TZImagePickerController+Wave.h"
 
 @interface HHJImagePickerViewController (){

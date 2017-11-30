@@ -10,9 +10,9 @@
 #import <MediaPlayer/MediaPlayer.h>
 #import <AVFoundation/AVFoundation.h>
 #import "TZAssetModel+Wave.h"
-#import <TZImageManager.h>
-#import <YYImageCache.h>
-#import <UIView+YYAdd.h>
+#import <TZImagePickerController/TZImageManager.h>
+#import <YYKit/YYImageCache.h>
+#import <YYKit/UIView+YYAdd.h>
 
 @implementation TZVideoPreviewCell (Wave)
 

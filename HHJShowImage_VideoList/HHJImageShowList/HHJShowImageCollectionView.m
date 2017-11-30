@@ -9,7 +9,7 @@
 #import "HHJShowImageCollectionView.h"
 #import "HHJShowImageCell.h"
 #import "HHJImagePickerViewController.h"
-#import <UIColor+YYAdd.h>
+#import <YYKit/UIColor+YYAdd.h>
 #import "TZAssetModel+Wave.h"
 #import "TZImagePickerController+Wave.h"
 
@@ -54,7 +54,7 @@
         }
         if (!_MediaObjArray.count) {
             
-            NSAssert(_MediaObjArray, @"数据源数组被置nil了！");
+            NSAssert(_MediaObjArray != nil, @"数据源数组被置nil了！");
         }
         if (_NetWorkObjArray.count) {
             for (NSInteger i = 0; i < _NetWorkObjArray.count; i++) {

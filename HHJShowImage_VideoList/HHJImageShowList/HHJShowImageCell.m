@@ -8,8 +8,8 @@
 
 #import "HHJShowImageCell.h"
 #import "HHJMediaObj.h"
-#import <TZImageManager.h>
-#import "UIImageView+HHJWZZ.h"
+#import <TZImagePickerController/TZImageManager.h>
+#import <HHJTools/UIImageView+HHJWZZ.h>
 
 
 NSString *const icon_deleteImageName = @"icon_shanchu";//删除图片的imagename
