@@ -232,17 +232,9 @@
 			isa = PBXGroup;
 			children = (
 				C3E695D01FCECFB700911B62 /* HHJImagePickerController */,
-				C3E695E31FCECFB700911B62 /* HHJMediaObj.h */,
-				C3E695E41FCECFB700911B62 /* HHJMediaObj.m */,
-				C3E695E51FCECFB700911B62 /* HHJShowImageCell.h */,
-				C3E695E61FCECFB700911B62 /* HHJShowImageCell.m */,
-				C3E695E71FCECFB700911B62 /* HHJShowImageCollectionView.h */,
-				C3E695E81FCECFB700911B62 /* HHJShowImageCollectionView.m */,
-				C3E695E91FCECFB700911B62 /* LxGridViewFlowLayout.h */,
-				C3E695EA1FCECFB700911B62 /* LxGridViewFlowLayout.m */,
+				C3E696A31FD0FDB600911B62 /* HHJMode */,
+				C3E696A21FD0FDA100911B62 /* HHJView */,
 				C3E695EB1FCECFB700911B62 /* Resources */,
-				C3E695F71FCECFB700911B62 /* TZTestCell.h */,
-				C3E695F81FCECFB700911B62 /* TZTestCell.m */,
 			);
 			path = HHJImageShowList;
 			sourceTree = SOURCE_ROOT;
@@ -289,6 +281,30 @@
 			);
 			path = Resources;
 			sourceTree = "<group>";
+		};
+		C3E696A21FD0FDA100911B62 /* HHJView */ = {
+			isa = PBXGroup;
+			children = (
+				C3E695E51FCECFB700911B62 /* HHJShowImageCell.h */,
+				C3E695E61FCECFB700911B62 /* HHJShowImageCell.m */,
+				C3E695E71FCECFB700911B62 /* HHJShowImageCollectionView.h */,
+				C3E695E81FCECFB700911B62 /* HHJShowImageCollectionView.m */,
+				C3E695E91FCECFB700911B62 /* LxGridViewFlowLayout.h */,
+				C3E695EA1FCECFB700911B62 /* LxGridViewFlowLayout.m */,
+				C3E695F71FCECFB700911B62 /* TZTestCell.h */,
+				C3E695F81FCECFB700911B62 /* TZTestCell.m */,
+			);
+			path = HHJView;
+			sourceTree = SOURCE_ROOT;
+		};
+		C3E696A31FD0FDB600911B62 /* HHJMode */ = {
+			isa = PBXGroup;
+			children = (
+				C3E695E31FCECFB700911B62 /* HHJMediaObj.h */,
+				C3E695E41FCECFB700911B62 /* HHJMediaObj.m */,
+			);
+			path = HHJMode;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
