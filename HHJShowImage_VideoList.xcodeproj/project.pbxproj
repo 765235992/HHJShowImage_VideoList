@@ -24,10 +24,6 @@
 		C3E695FF1FCECFB800911B62 /* TZImagePickerController+Wave.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695DE1FCECFB700911B62 /* TZImagePickerController+Wave.m */; };
 		C3E696001FCECFB800911B62 /* TZPhotoPreviewView+Wave.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695E01FCECFB700911B62 /* TZPhotoPreviewView+Wave.m */; };
 		C3E696011FCECFB800911B62 /* TZVideoPreviewCell+Wave.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695E21FCECFB700911B62 /* TZVideoPreviewCell+Wave.m */; };
-		C3E696021FCECFB800911B62 /* HHJMediaObj.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695E41FCECFB700911B62 /* HHJMediaObj.m */; };
-		C3E696031FCECFB800911B62 /* HHJShowImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695E61FCECFB700911B62 /* HHJShowImageCell.m */; };
-		C3E696041FCECFB800911B62 /* HHJShowImageCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695E81FCECFB700911B62 /* HHJShowImageCollectionView.m */; };
-		C3E696051FCECFB800911B62 /* LxGridViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695EA1FCECFB700911B62 /* LxGridViewFlowLayout.m */; };
 		C3E696061FCECFB800911B62 /* icon_play_normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695EC1FCECFB700911B62 /* icon_play_normal@2x.png */; };
 		C3E696071FCECFB800911B62 /* icon_play_normal@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695ED1FCECFB700911B62 /* icon_play_normal@3x.png */; };
 		C3E696081FCECFB800911B62 /* icon_shanchu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695EE1FCECFB700911B62 /* icon_shanchu@2x.png */; };
@@ -39,7 +35,11 @@
 		C3E6960E1FCECFB800911B62 /* photo_sel_photoPickerVc_hhj@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695F41FCECFB700911B62 /* photo_sel_photoPickerVc_hhj@2x.png */; };
 		C3E6960F1FCECFB800911B62 /* photo_sel_previewV_hhj@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695F51FCECFB700911B62 /* photo_sel_previewV_hhj@2x.png */; };
 		C3E696101FCECFB800911B62 /* preview_number_icon_hhj@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3E695F61FCECFB700911B62 /* preview_number_icon_hhj@2x.png */; };
-		C3E696111FCECFB800911B62 /* TZTestCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E695F81FCECFB700911B62 /* TZTestCell.m */; };
+		C3E696AD1FD1037D00911B62 /* HHJShowImageCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E696A61FD1037D00911B62 /* HHJShowImageCell.m */; };
+		C3E696AE1FD1037D00911B62 /* HHJShowImageCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E696A81FD1037D00911B62 /* HHJShowImageCollectionView.m */; };
+		C3E696AF1FD1037D00911B62 /* LxGridViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E696AA1FD1037D00911B62 /* LxGridViewFlowLayout.m */; };
+		C3E696B01FD1037D00911B62 /* TZTestCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E696AC1FD1037D00911B62 /* TZTestCell.m */; };
+		C3E696B41FD1038300911B62 /* HHJMediaObj.m in Sources */ = {isa = PBXBuildFile; fileRef = C3E696B31FD1038300911B62 /* HHJMediaObj.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -97,14 +97,6 @@
 		C3E695E01FCECFB700911B62 /* TZPhotoPreviewView+Wave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "TZPhotoPreviewView+Wave.m"; sourceTree = "<group>"; };
 		C3E695E11FCECFB700911B62 /* TZVideoPreviewCell+Wave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TZVideoPreviewCell+Wave.h"; sourceTree = "<group>"; };
 		C3E695E21FCECFB700911B62 /* TZVideoPreviewCell+Wave.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "TZVideoPreviewCell+Wave.m"; sourceTree = "<group>"; };
-		C3E695E31FCECFB700911B62 /* HHJMediaObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJMediaObj.h; sourceTree = "<group>"; };
-		C3E695E41FCECFB700911B62 /* HHJMediaObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJMediaObj.m; sourceTree = "<group>"; };
-		C3E695E51FCECFB700911B62 /* HHJShowImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJShowImageCell.h; sourceTree = "<group>"; };
-		C3E695E61FCECFB700911B62 /* HHJShowImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJShowImageCell.m; sourceTree = "<group>"; };
-		C3E695E71FCECFB700911B62 /* HHJShowImageCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJShowImageCollectionView.h; sourceTree = "<group>"; };
-		C3E695E81FCECFB700911B62 /* HHJShowImageCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJShowImageCollectionView.m; sourceTree = "<group>"; };
-		C3E695E91FCECFB700911B62 /* LxGridViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LxGridViewFlowLayout.h; sourceTree = "<group>"; };
-		C3E695EA1FCECFB700911B62 /* LxGridViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LxGridViewFlowLayout.m; sourceTree = "<group>"; };
 		C3E695EC1FCECFB700911B62 /* icon_play_normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_play_normal@2x.png"; sourceTree = "<group>"; };
 		C3E695ED1FCECFB700911B62 /* icon_play_normal@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_play_normal@3x.png"; sourceTree = "<group>"; };
 		C3E695EE1FCECFB700911B62 /* icon_shanchu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_shanchu@2x.png"; sourceTree = "<group>"; };
@@ -116,8 +108,16 @@
 		C3E695F41FCECFB700911B62 /* photo_sel_photoPickerVc_hhj@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_sel_photoPickerVc_hhj@2x.png"; sourceTree = "<group>"; };
 		C3E695F51FCECFB700911B62 /* photo_sel_previewV_hhj@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo_sel_previewV_hhj@2x.png"; sourceTree = "<group>"; };
 		C3E695F61FCECFB700911B62 /* preview_number_icon_hhj@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "preview_number_icon_hhj@2x.png"; sourceTree = "<group>"; };
-		C3E695F71FCECFB700911B62 /* TZTestCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZTestCell.h; sourceTree = "<group>"; };
-		C3E695F81FCECFB700911B62 /* TZTestCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZTestCell.m; sourceTree = "<group>"; };
+		C3E696A51FD1037D00911B62 /* HHJShowImageCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJShowImageCell.h; sourceTree = "<group>"; };
+		C3E696A61FD1037D00911B62 /* HHJShowImageCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJShowImageCell.m; sourceTree = "<group>"; };
+		C3E696A71FD1037D00911B62 /* HHJShowImageCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJShowImageCollectionView.h; sourceTree = "<group>"; };
+		C3E696A81FD1037D00911B62 /* HHJShowImageCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJShowImageCollectionView.m; sourceTree = "<group>"; };
+		C3E696A91FD1037D00911B62 /* LxGridViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LxGridViewFlowLayout.h; sourceTree = "<group>"; };
+		C3E696AA1FD1037D00911B62 /* LxGridViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LxGridViewFlowLayout.m; sourceTree = "<group>"; };
+		C3E696AB1FD1037D00911B62 /* TZTestCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TZTestCell.h; sourceTree = "<group>"; };
+		C3E696AC1FD1037D00911B62 /* TZTestCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TZTestCell.m; sourceTree = "<group>"; };
+		C3E696B21FD1038300911B62 /* HHJMediaObj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHJMediaObj.h; sourceTree = "<group>"; };
+		C3E696B31FD1038300911B62 /* HHJMediaObj.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHJMediaObj.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -231,9 +231,9 @@
 		C3E695CF1FCECFB700911B62 /* HHJImageShowList */ = {
 			isa = PBXGroup;
 			children = (
+				C3E696B11FD1038300911B62 /* HHJMode */,
+				C3E696A41FD1037D00911B62 /* HHJView */,
 				C3E695D01FCECFB700911B62 /* HHJImagePickerController */,
-				C3E696A31FD0FDB600911B62 /* HHJMode */,
-				C3E696A21FD0FDA100911B62 /* HHJView */,
 				C3E695EB1FCECFB700911B62 /* Resources */,
 			);
 			path = HHJImageShowList;
@@ -282,29 +282,29 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		C3E696A21FD0FDA100911B62 /* HHJView */ = {
+		C3E696A41FD1037D00911B62 /* HHJView */ = {
 			isa = PBXGroup;
 			children = (
-				C3E695E51FCECFB700911B62 /* HHJShowImageCell.h */,
-				C3E695E61FCECFB700911B62 /* HHJShowImageCell.m */,
-				C3E695E71FCECFB700911B62 /* HHJShowImageCollectionView.h */,
-				C3E695E81FCECFB700911B62 /* HHJShowImageCollectionView.m */,
-				C3E695E91FCECFB700911B62 /* LxGridViewFlowLayout.h */,
-				C3E695EA1FCECFB700911B62 /* LxGridViewFlowLayout.m */,
-				C3E695F71FCECFB700911B62 /* TZTestCell.h */,
-				C3E695F81FCECFB700911B62 /* TZTestCell.m */,
+				C3E696A51FD1037D00911B62 /* HHJShowImageCell.h */,
+				C3E696A61FD1037D00911B62 /* HHJShowImageCell.m */,
+				C3E696A71FD1037D00911B62 /* HHJShowImageCollectionView.h */,
+				C3E696A81FD1037D00911B62 /* HHJShowImageCollectionView.m */,
+				C3E696A91FD1037D00911B62 /* LxGridViewFlowLayout.h */,
+				C3E696AA1FD1037D00911B62 /* LxGridViewFlowLayout.m */,
+				C3E696AB1FD1037D00911B62 /* TZTestCell.h */,
+				C3E696AC1FD1037D00911B62 /* TZTestCell.m */,
 			);
 			path = HHJView;
-			sourceTree = SOURCE_ROOT;
+			sourceTree = "<group>";
 		};
-		C3E696A31FD0FDB600911B62 /* HHJMode */ = {
+		C3E696B11FD1038300911B62 /* HHJMode */ = {
 			isa = PBXGroup;
 			children = (
-				C3E695E31FCECFB700911B62 /* HHJMediaObj.h */,
-				C3E695E41FCECFB700911B62 /* HHJMediaObj.m */,
+				C3E696B21FD1038300911B62 /* HHJMediaObj.h */,
+				C3E696B31FD1038300911B62 /* HHJMediaObj.m */,
 			);
 			path = HHJMode;
-			sourceTree = SOURCE_ROOT;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
@@ -507,23 +507,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3E696B41FD1038300911B62 /* HHJMediaObj.m in Sources */,
 				C3E695FC1FCECFB800911B62 /* TZAlbumPickerController+Wave.m in Sources */,
+				C3E696AD1FD1037D00911B62 /* HHJShowImageCell.m in Sources */,
+				C3E696AE1FD1037D00911B62 /* HHJShowImageCollectionView.m in Sources */,
 				C3E695F91FCECFB800911B62 /* HHJImagePickerViewController.m in Sources */,
 				C3E695FB1FCECFB800911B62 /* HHJPhotoPreviewController.m in Sources */,
+				C3E696B01FD1037D00911B62 /* TZTestCell.m in Sources */,
 				C319FDEF1F7BC45A00DBBD20 /* main.m in Sources */,
-				C3E696031FCECFB800911B62 /* HHJShowImageCell.m in Sources */,
 				C3E695FD1FCECFB800911B62 /* TZAssetModel+Wave.m in Sources */,
 				C3E695FE1FCECFB800911B62 /* TZAssetPreviewCell+Wave.m in Sources */,
+				C3E696AF1FD1037D00911B62 /* LxGridViewFlowLayout.m in Sources */,
 				C319FDDE1F7BC45A00DBBD20 /* RootViewController.m in Sources */,
 				C319FDDB1F7BC45A00DBBD20 /* AppDelegate.m in Sources */,
 				C3E695FF1FCECFB800911B62 /* TZImagePickerController+Wave.m in Sources */,
-				C3E696111FCECFB800911B62 /* TZTestCell.m in Sources */,
 				C3E695FA1FCECFB800911B62 /* HHJPhotoPickerController.m in Sources */,
-				C3E696051FCECFB800911B62 /* LxGridViewFlowLayout.m in Sources */,
-				C3E696041FCECFB800911B62 /* HHJShowImageCollectionView.m in Sources */,
 				C3E696011FCECFB800911B62 /* TZVideoPreviewCell+Wave.m in Sources */,
 				C3E696001FCECFB800911B62 /* TZPhotoPreviewView+Wave.m in Sources */,
-				C3E696021FCECFB800911B62 /* HHJMediaObj.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
