@@ -4,7 +4,7 @@ inhibit_all_warnings!
 
 target 'HHJShowImage_VideoList' do
 
-    pod 'HHJTools'
+    pod 'HHJTools/Categories'
 #   pod 'MBProgressHUD', '1.1.0'
    pod 'TZImagePickerController', '1.9.5'
 #   pod 'AsyncDisplayKit', '2.2.0'
